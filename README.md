@@ -12,4 +12,4 @@ main functions `.get(), .strip(),.lower()`
 just enter `yes` if you want jokes  
 and enter `exit` if you want quit 
 
-### made by Babar Nohiudin Mir
+### By Babar Mohiudin Mir
